@@ -1,4 +1,4 @@
-# golang-keycloak-oauth2-open-id
+# Golang - Autenticação e Autorização com Keycloak
 Projeto em Golang de testes que mostra uma forma de autenticação e autorização utilizando o keycloak e openid-connect.
 Keycloak utilizado local com docker conforme a documentação do keycloak.
 https://www.keycloak.org/
