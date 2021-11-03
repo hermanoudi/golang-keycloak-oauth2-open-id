@@ -12,7 +12,7 @@ import (
 
 var (
 	clientID     = "myclient"
-	clientSecret = "a3eeab08-bc33-4f1c-8591-aeed6bb2a35b"
+	clientSecret = SUA_SECRET_KEY
 )
 
 func main() {
